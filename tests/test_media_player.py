@@ -3,9 +3,8 @@
 from unittest.mock import AsyncMock, Mock
 
 import pytest
-from pytest_homeassistant_custom_component.common import MockConfigEntry
-
 from homeassistant.components.media_player import MediaPlayerState
+from pytest_homeassistant_custom_component.common import MockConfigEntry
 
 from custom_components.tuya_local.const import (
     CONF_DEVICE_ID,
@@ -106,7 +105,6 @@ class TestMediaPlayerState:
     @pytest.mark.asyncio
     async def async_test_state(self, hass, mocker):
         """Test the state property."""
-        tuya_device = mocker.MagicMock()
         dps = {"82": True}
         entry = MockConfigEntry(
             domain=DOMAIN,
