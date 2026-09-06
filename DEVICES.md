@@ -363,6 +363,7 @@
 - Amico 52" ceiling fan with light
 - Anderic UC7235T4 ceiling fan receiver
 - Anko HEGSM40 fan
+- Anwo Brezza ceiling fan
 - Arida Venti 160 small through-wall heat-recovery ventilation fan
 - Arlec ceiling fan and light remote control kit (CFR225HA also works for Sulion Cadillac)
 - Arlec Grid Connect smart ceiling fan (with and without light)
@@ -705,7 +706,7 @@
 - Aulifants SMES200 energy monitoring breaker switch
 - Avidsen Soria Karst-400 and MI-400 solar inverters
 - CBI Astute smart controller breaker switch
-- CNC YCB9ZF-100W 1P circuit breaker
+- CNC YCB9ZF-100W and YCB9NZF-40AP 1P circuit breakers
 - Compteur digital electric (single phase)
 - CT-1203 dual clamp meter
 - Dcenta dual clamp meter
@@ -730,7 +731,7 @@
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
 - PC473 3-phase energy monitor
-- PJ-1103, PJ-1103A, PJ-1103C power clamp meters
+- PJ-1103, PJ-1103A, PJ-1103C, PJ-2101A power clamp meters
 - PowBay JGQW01-63 energy monitoring circuit breaker
 - PZIOT E01 energy meter
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
