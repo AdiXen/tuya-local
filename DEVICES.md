@@ -288,6 +288,7 @@
 - Beok TR9B _(rebadged as Vancoo and perhaps others)_, TR9B-AC2 thermostats
 - BHT-002-GALW and GABW thermostats _(rebadged as many different brands)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
+- Coleman-Mach RVP 9240-391 thermostat
 - Computherm Q20 thermostat
 - Dr Heater DR-008 electric radiant floor thermostat
 - Drexma WiStat ET7AW thermostat
@@ -1107,6 +1108,7 @@ of device.
 - Lenovo E1 vacuum cleaner
 - Liectroux G7. XR500 vacuum cleaners
 - Lubluelu A901, SL60D vacuum cleaners
+- Madimack GT Freedom i80 pool cleaner
 - MAMNV BR151 vacuum cleaner with mop
 - Medion S10 SW, S20 SW, X10 SW vacuum cleaners
 - Mellerware City Move vacuum cleaner
